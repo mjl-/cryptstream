@@ -1,0 +1,7 @@
+cryptstream encrypts/decrypts streams of data, in aes-cbc format.
+
+for documentation, see:
+https://godoc.org/bitbucket.org/mjl/cryptstream
+https://godoc.org/bitbucket.org/mjl/cryptstream/crypt
+
+this code is in the public domain, by mechiel lukkien, 2014.
